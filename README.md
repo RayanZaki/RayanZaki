@@ -134,6 +134,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RayanZaki/RayanZaki/output/snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RayanZaki/RayanZaki/output/snake.svg" alt="Snake animation" />
 
 ###
