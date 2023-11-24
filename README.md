@@ -2,7 +2,8 @@
 
 ###
 
-- Third Year AI Student
+- Third Year AI Student at ENSIA
+- Currently working on [Gostu](gost.net)
 - Mern Stack Developer
 - Advanced in Python and Data Analysis and visualization.
 - Currently studying Networking and IoT
