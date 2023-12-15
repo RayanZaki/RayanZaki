@@ -6,7 +6,6 @@
 - Currently working on [Gostu](https://gostu.net/)
 - Mern Stack Developer
 - Advanced in Python and Data Analysis and visualization.
-- Currently studying Networking and IoT
 
 ###
 
