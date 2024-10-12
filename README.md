@@ -2,10 +2,10 @@
 
 ###
 
-- Third Year AI Student at ENSIA
-- Currently working on [Gostu](https://gostu.net/)
-- Mern Stack Developer
-- Advanced in Python and Data Analysis and visualization.
+- fourth Year AI Student at ENSIA
+- I love integrating software sollution in different fields
+- Full stack typescript dev
+- open to any project
 
 ###
 
