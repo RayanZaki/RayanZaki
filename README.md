@@ -4,7 +4,7 @@
 
 **PhD Student · AI for Software Engineering**
 
-Université de Montréal (DIRO) · GEODES Lab
+<a href="https://diro.umontreal.ca/accueil/" >Université de Montréal (DIRO)</a> · <a href="https://geodes.iro.umontreal.ca" > GEODES Lab</a>
 
 <a href="https://www.linkedin.com/in/rayan-zakaria-hassici-080062238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/RayanZzak"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
