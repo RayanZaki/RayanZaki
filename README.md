@@ -25,6 +25,7 @@ My research is in **AI for software engineering**, with a focus on **coding agen
 | **Evaluation** | Benchmarking and measuring agentic systems |
 
 ---
+
 ## 🛠️ Tools
 
 <p align="left">
@@ -37,6 +38,7 @@ My research is in **AI for software engineering**, with a focus on **coding agen
   <img src="https://img.shields.io/badge/OpenCode-333333?style=flat-square" alt="OpenCode" />&nbsp;
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
+
 ---
 
 ## 🎓 Background
